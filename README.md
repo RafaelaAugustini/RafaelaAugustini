@@ -1,4 +1,4 @@
-<h2 align="left">Olá, seja bem vindo (a)! 👁️‍🗨️</h2>
+<h2 align="left">Olá, seja bem vindo (a)! 🎀𓂃 ࣪˖</h2>
 
 ###
 
