@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left"> Me chamo Rafaela, e sou estudante de Análise e Desenvolvimento de Sistemas na UNIFECAF e atualmente estagiária no departamento de infraestrutura, atuando na área de suporte.<br><br>Estou em busca minha primeira oportunidade profissional como desenvolvedora, com foco em desenvolvimento web, especialmente front-end. Realizo projetos pessoais e desenvolvo projetos de cursos que realizo em algumas plataformas de ensino, sempre em busca de aprofundar meu conhecimento e aprimorar minhas habilidades.<br><br>Tenho interesse em UX Design e pretendo iniciar alguns cursos na área em breve.</p>
+<p align="left">Sou a Rafaela, estagiária de desenvolvimento front-end e entusiasta da comunicação (falo bastante mesmo). Apaixonada por leitura, livros sempre fizeram parte do meu dia a dia. 
+<br>
+Atualmente estou focada em aprender JavaScript e React, estudando por cursos online, desenvolvendo projetos próprios e aprofundando meus conhecimentos na faculdade. Gosto de transformar o que aprendo em código e estou sempre em busca de evoluir como desenvolvedora.
+</p>
 
 ###
 
@@ -14,16 +17,12 @@
 
 ###
 
-<h4 align="left">Linguagens e tecnologias que estou aprendendo:</h4>
+<h4 align="left">Linguagens e tecnologias que estou aprendendo atualmente:</h4>
 
 ###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
   <img width="12" />
