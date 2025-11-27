@@ -6,15 +6,20 @@
 
 ###
 
-<p align="left">• Desenvolvedora front-end junior<br>• Atualmente estou estudando Javascript e Vue.js<br>• Interesse e curiosidade pela área de UX/UI<br>• Apaixonada por leitura<br>• Comunicativa</p>
+<p align="left">• Desenvolvedora Front-End Junior<br>• Atualmente estou estudando Javascript e Vue.js<br>• Interesse e curiosidade pela área de UX/UI<br>• Apaixonada por leitura<br>• Comunicativa</p>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="youtube logo"  />
+  <a href="https://www.linkedin.com/in/rafaela-mazzelli/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/mszlli/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="instagram logo"  />
+  </a>
+  <a href="https://x.com/mszlli" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
