@@ -2,10 +2,10 @@
 
 ###
 
-<p align="left">Sou a Rafaela, estagiária de desenvolvimento front-end e entusiasta da comunicação (falo bastante mesmo). Apaixonada por leitura, livros sempre fizeram parte do meu dia a dia.
+<p align="left">Sou a Rafaela, desenvolvedora front-end júnior e entusiasta da comunicação (falo bastante mesmo). Apaixonada por leitura, livros sempre fizeram parte do meu dia a dia.
 </p>
 
-<p align="left">Atualmente estou focada em aprender JavaScript e React, estudando por cursos online, desenvolvendo projetos próprios e aprofundando meus conhecimentos na faculdade. Gosto de transformar o que aprendo em código e estou sempre em busca de evoluir como desenvolvedora.</p>
+<p align="left">Atualmente estou focada em aprender JavaScript e Vue.js, estudando, desenvolvendo projetos e aprofundando meus conhecimentos.</p>
 
 ###
 
@@ -24,7 +24,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="vue.js logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
 </div>
