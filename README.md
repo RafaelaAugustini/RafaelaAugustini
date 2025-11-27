@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Me chamo Rafaela, e aqui vai aqui vai alguns fatos sobre mim:</h4>
+<h4 align="left">Me chamo Rafaela, e aqui vai alguns fatos sobre mim:</h4>
 
 ###
 
