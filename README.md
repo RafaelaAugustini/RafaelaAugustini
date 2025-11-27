@@ -1,32 +1,38 @@
-<h2 align="left">Olá, seja bem vindo (a)! 🎀𓂃 ࣪˖</h2>
+<h3 align="left">Olá, seja bem vindo (a)! 𓂃 ࣪˖</h3>
 
 ###
 
-<p align="left">Sou a Rafaela, desenvolvedora front-end júnior e entusiasta da comunicação (falo bastante mesmo). Apaixonada por leitura, livros sempre fizeram parte do meu dia a dia.
-</p>
-
-<p align="left">Atualmente estou focada em aprender JavaScript e Vue.js, estudando, desenvolvendo projetos e aprofundando meus conhecimentos.</p>
+<h4 align="left">Me chamo Rafaela Augustini, e aqui vai aqui vai alguns fatos sobre mim:</h4>
 
 ###
 
-<h2 align="left"></h2>
-
-###
-
-<img align="right" height="130" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjdlbDdsY2d4cHA4ZmQzaXhmN3dhaWNkdWszMWszZG4yeHE3YW5teSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8BlEa9XDwxOwdB6mKW/giphy.gif"  />
-
-###
-
-<h4 align="left">Linguagens e tecnologias que estou aprendendo atualmente:</h4>
+<p align="left">• Desenvolvedora front-end junior<br>• Atualmente estou estudando Javascript e Vue.js<br>• Interesse e curiosidade pela área de UX/UI<br>• Apaixonada por leitura<br>• Comunicativa</p>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="38" height="26" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="38" height="26" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="38" height="26" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="38" height="26" alt="youtube logo"  />
+</div>
+
+###
+
+<h4 align="left">Skills:</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="25" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="vue.js logo"  />
+  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="25" alt="vuejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="25" alt="sass logo"  />
 </div>
 
 ###
