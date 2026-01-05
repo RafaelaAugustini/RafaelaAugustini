@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">• Desenvolvedora Front-End Junior<br>• Atualmente estou estudando Javascript e Vue.js<br>• Interesse e curiosidade pela área de UX/UI<br>• Apaixonada por leitura<br>• Comunicativa</p>
+<p align="left">• Desenvolvedora Front-End Junior<br>• Atualmente estou aprendendo Javascript e Vue.js<br>• Interesse e curiosidade pela área de UX/UI<br>• Apaixonada por leitura<br>• Comunicativa</p>
 
 ###
 
